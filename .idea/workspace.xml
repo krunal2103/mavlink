@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="mavlink" targetName="ardupilotmega.xml-v1.0" />
+      <config projectName="mavlink" targetName="autoquad.xml-v1.0" />
+      <config projectName="mavlink" targetName="ualberta.xml-v1.0" />
+      <config projectName="mavlink" targetName="slugs.xml-v1.0" />
+      <config projectName="mavlink" targetName="test.xml-v0.9" />
+      <config projectName="mavlink" targetName="paparazzi.xml-v1.0" />
+      <config projectName="mavlink" targetName="ualberta.xml-v0.9" />
+      <config projectName="mavlink" targetName="test.xml-v1.0" />
+      <config projectName="mavlink" targetName="ASLUAV.xml-v1.0" />
+      <config projectName="mavlink" targetName="common.xml-v0.9" />
+      <config projectName="mavlink" targetName="minimal.xml-v0.9" />
+      <config projectName="mavlink" targetName="common.xml-v1.0" />
+      <config projectName="mavlink" targetName="python_array_test.xml-v1.0" />
+      <config projectName="mavlink" targetName="ardupilotmega.xml-v0.9" />
+      <config projectName="mavlink" targetName="matrixpilot.xml-v1.0" />
+      <config projectName="mavlink" targetName="minimal.xml-v1.0" />
+      <config projectName="mavlink" targetName="slugs.xml-v0.9" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="539b8331-6be8-4f7e-be33-8f13fe91a11b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="common.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/common/common.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="153" column="98" selection-start-line="153" selection-start-column="90" selection-end-line="153" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mavlink_msg_set_attitude_target.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/common/mavlink_msg_set_attitude_target.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ATTITUDE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/pymavlink/generator/javascript/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2429" />
+    <option name="y" value="-4" />
+    <option name="width" value="1853" />
+    <option name="height" value="1076" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mavlink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MAVLink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavlink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MAVLink" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavlink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MAVLink" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Apellix-AutoPilot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ardupilotmega.xml-v0.9">
+    <configuration name="ASLUAV.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="ASLUAV.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="ardupilotmega.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="ardupilotmega.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="ardupilotmega.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="ardupilotmega.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="autoquad.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="autoquad.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="common.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="common.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="common.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="common.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="matrixpilot.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="matrixpilot.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="minimal.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="minimal.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="minimal.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="minimal.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="paparazzi.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="paparazzi.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="python_array_test.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="python_array_test.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="slugs.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="slugs.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="slugs.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="slugs.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="test.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="test.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="test.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="test.xml-v1.0" CONFIG_NAME="Debug" />
+    <configuration name="ualberta.xml-v0.9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="ualberta.xml-v0.9" CONFIG_NAME="Debug" />
+    <configuration name="ualberta.xml-v1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mavlink" TARGET_NAME="ualberta.xml-v1.0" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.ardupilotmega.xml-v0.9" />
+      <item itemvalue="Application.ardupilotmega.xml-v1.0" />
+      <item itemvalue="Application.ASLUAV.xml-v1.0" />
+      <item itemvalue="Application.autoquad.xml-v1.0" />
+      <item itemvalue="Application.common.xml-v0.9" />
+      <item itemvalue="Application.common.xml-v1.0" />
+      <item itemvalue="Application.matrixpilot.xml-v1.0" />
+      <item itemvalue="Application.minimal.xml-v0.9" />
+      <item itemvalue="Application.minimal.xml-v1.0" />
+      <item itemvalue="Application.paparazzi.xml-v1.0" />
+      <item itemvalue="Application.python_array_test.xml-v1.0" />
+      <item itemvalue="Application.slugs.xml-v0.9" />
+      <item itemvalue="Application.slugs.xml-v1.0" />
+      <item itemvalue="Application.test.xml-v0.9" />
+      <item itemvalue="Application.test.xml-v1.0" />
+      <item itemvalue="Application.ualberta.xml-v0.9" />
+      <item itemvalue="Application.ualberta.xml-v1.0" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539b8331-6be8-4f7e-be33-8f13fe91a11b" name="Default" comment="" />
+      <created>1529954268026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529954268026</updated>
+      <workItem from="1529954270423" duration="882000" />
+      <workItem from="1530025487735" duration="1414000" />
+      <workItem from="1530108493020" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1984" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="TeamCity" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/common/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="98" selection-start-line="153" selection-start-column="90" selection-end-line="153" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common/mavlink_msg_set_attitude_target.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/protocol.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/protocol.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="98" selection-start-line="153" selection-start-column="90" selection-end-line="153" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common/mavlink_msg_set_attitude_target.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
